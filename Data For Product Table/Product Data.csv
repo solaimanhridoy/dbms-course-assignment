@@ -1,0 +1,519 @@
+Product Table,,,,,
+product_id,product_name,product_type,product_quanity,product_price,total_products
+1001,Regular Bread,Local Breakfast,300 gm,৳ 35,102
+1002,PRAN Puffed Rice (Muri),Local Breakfast,500 gm,৳ 60,196
+1003,Golden Harvest Frozen Paratha Family Pack,Local Breakfast,20 pcs,৳ 250,186
+1004,Dan Cake Vanilla Muffin,Local Breakfast,25 gm,৳ 15,7
+1005,PRAN Puffed Rice (Muri),Local Breakfast,250 gm,৳ 32,133
+1006,PRAN All Time Cream Roll,Local Breakfast,6 pcs,৳ 70,106
+1007,Dan Cake Chocolate Muffin 12 packs,Local Breakfast,300 gm,৳ 180,15
+1008,Golden Harvest Aloo Paratha,Local Breakfast,250 gm,৳ 70,72
+1009,Dan Cake Vanilla Muffin 12 packs,Local Breakfast,300 gm,৳ 180,64
+1010,Lamisa Red Wheat Roti 800 gm,Local Breakfast,20 pcs,৳ 190,139
+1011,Lamisa Roti,Local Breakfast,20 pcs,৳ 160,48
+1012,Well Food Brown Bread,Local Breakfast,500 gm,৳ 115,193
+1013,Well Food Sugar Free Bread,Local Breakfast,200 gm,৳ 40,6
+1014,Well Food Honey Bread,Local Breakfast,500 gm,৳ 75,110
+1015,Golden Harvest Mega Deshi Paratha 1600 gm,Local Breakfast,20 pcs,৳ 300,143
+1016,Flattened Rice,Local Breakfast,500 gm,৳ 45,56
+1017,Dan Cake Chocolate Pound Cake,Local Breakfast,320 gm,৳ 100,69
+1018,Ispahani Bakery Fresh Dry Cake,Local Breakfast,350 gm,৳ 120,31
+1019,Lamisa Paratha Family,Local Breakfast,20 pcs,৳ 250,166
+1020,Dan Cake Lemon Pound Cake,Local Breakfast,320 gm,৳ 100,140
+1021,Well Food Sugar Free Cookies,Local Breakfast,300 gm,৳ 220,98
+1022,Tiffany Crunch 'N' Cream Hazelnut Wafers,Local Breakfast,76 gm,৳ 100,48
+1023,Lamisa Premium Paratha,Local Breakfast,1600 gm,৳ 300,94
+1024,BPM Homemade Puffed Rice,Local Breakfast,500 gm,৳ 82,163
+1025,BPM Red Flattened Rice,Local Breakfast,500 gm,৳ 63,103
+1026,Red Flattened Rice,Local Breakfast,500 gm,৳ 50,185
+1027,BPM White Flattened Rice,Local Breakfast,500 gm,৳ 58,86
+1028,Tiffany Crunch 'n' Cream Orange Wafers,Local Breakfast,76 gm,৳ 110,126
+2001,Guava Thai (Net Weight ± 50 gm),Fresh Fruits,1 kg,৳ 110,171
+2002,Green Coconut (Daab),Fresh Fruits,each,৳ 61,111
+2003,Chompa Banana,Fresh Fruits,12 pcs,৳ 62,19
+2004,Banana Sagor (Kola),Fresh Fruits,12 pcs,৳ 115,186
+2005,Malta (Net Weight ± 50 gm),Fresh Fruits,1 kg,৳ 145,64
+2006,Green Apple (Net Weight ± 50 gm),Fresh Fruits,1 kg,৳ 195,113
+2007,Green Grapes,Fresh Fruits,250 gm,৳ 65,67
+2008,Pomegranate Dalim/Bedana (Net Weight ± 50 gm),Fresh Fruits,700 gm,৳ 210,83
+2009,Coconut,Fresh Fruits,each,৳ 52,68
+2010,Orange,Fresh Fruits,1 kg,৳ 200,95
+2011,Pear (Nashpati) Net Weight (± 30 gm),Fresh Fruits,500 gm,৳ 105,95
+2012,Paka Pape (Net Weight ± 50 gm),Fresh Fruits,1 kg,৳ 135,178
+2013,Gala Apple (Net Weight ± 50 gm),Fresh Fruits,1 kg,৳ 210,15
+2014,Red Grapes,Fresh Fruits,250 gm,৳ 130,170
+2015,Green Orange (Sobuj Komola),Fresh Fruits,1 kg,৳ 150,75
+2016,Pineapple,Fresh Fruits,each,৳ 65,111
+2017,Banana Sobri (Kola),Fresh Fruits,12 pcs,৳ 115,47
+2018,Amla (Amloki),Fresh Fruits,250 gm,৳ 80,36
+2019,Sour Plum Red (Tok Boroi),Fresh Fruits,500 gm,৳ 85,84
+2020,Sapodilla (Sofeda),Fresh Fruits,1 kg,৳ 135,25
+2021,Green Plum (Kul Boroi),Fresh Fruits,500 gm,৳ 80,103
+2022,Pear Red (Nashpati) Net Weight (± 30 gm),Fresh Fruits,500 gm,৳ 135,171
+2023,China Fuji Apple (Net Weight ± 50 gm),Fresh Fruits,1 kg,৳ 190,29
+2024,Kiwi,Fresh Fruits,500 gm,৳ 410,73
+2025,Black Grapes,Fresh Fruits,250 gm,৳ 110,51
+2026,Dragon Fruit (Net Weight ± 50 gm) Local,Fresh Fruits,1.2 kg,৳ 725,107
+2027,Avocado Fruit,Fresh Fruits,600 gm,৳ 950,50
+2028,Peach (Net Weight ± 50 gm),Fresh Fruits,500 gm,৳ 615,175
+2029,Red Plum,Fresh Fruits,500 gm,৳ 445,111
+3001,Bombay Sweets Ring Chips,Chips-Pretzels,22 gm,৳ 10,20
+3002,Bombay Sweets Mr. Twist,Chips-Pretzels,22 gm,৳ 15,79
+3003,Bombay Sweets Potato Crackers,Chips-Pretzels,22 gm,৳ 10,129
+3004,Lay's Italian Shape Pastazz Chips,Chips-Pretzels,37 gm,৳ 20,54
+3005,Lay's American Style Cream & Onion,Chips-Pretzels,52 gm,৳ 50,120
+3006,Ifad Eggy Stix Bar-B-Q Chips,Chips-Pretzels,25 gm,৳ 10,174
+3007,Sun Chips Salt & Pepper,Chips-Pretzels,22 gm,৳ 15,24
+3008,Bombay Sweets Nachoz Chutney & Lime,Chips-Pretzels,30 gm,৳ 15,8
+3009,Alooz Waves Hot  Flavour Potato Chips,Chips-Pretzels,22 gm,৳ 15,75
+3010,King French Fry,Chips-Pretzels,15 gm,৳ 10,59
+3011,Spicy Potato Stick,Chips-Pretzels,15 gm,৳ 10,31
+3012,Bombay Sweets Alooz Spanish Tomato Flavor,Chips-Pretzels,22 gm,৳ 15,194
+3013,Sun Chips Mix Masala,Chips-Pretzels,22 gm,৳ 15,194
+3014,Ifad Eggy Pillow Bar-B-Q Chips,Chips-Pretzels,25 gm,৳ 10,84
+3015,Poppers Corn Coconut Puffs Chips,Chips-Pretzels,25 gm,৳ 15,161
+3016,Krispy Chips Combo,Chips-Pretzels,3 pcs,৳ 30,41
+3017,Bombay Sweets Alooz Magic Masala,Chips-Pretzels,22 gm,৳ 15,56
+3018,Sun Chips Mix Masala,Chips-Pretzels,38 gm,৳ 25,21
+3019,Kurkure Masala Manch Chips,Chips-Pretzels,45 gm,৳ 25,195
+3020,Bombay Sweets Nachoz Spicy Nacho Cheese,Chips-Pretzels,30 gm,৳ 15,35
+3021,Sun Chips Tomato Tango,Chips-Pretzels,22 gm,৳ 15,83
+3022,Sun Chips Wasabi,Chips-Pretzels,38 gm,৳ 25,134
+3023,Sun Chips Tomato Tango,Chips-Pretzels,80 gm,৳ 50,120
+3024,Lay's Mexican Shape 3D Chips,Chips-Pretzels,37 gm,৳ 20,123
+3025,Kurkure Spanish Tomato Tango Chips,Chips-Pretzels,45 gm,৳ 25,43
+3026,Doritos Spicy Sweet Chili Chips,Chips-Pretzels,39 gm,৳ 65,22
+3027,Kurkure Salt & Papper,Chips-Pretzels,45 gm,৳ 25,14
+3028,Kurkure Tak Misti Jhal Chips ( Buy 2 Get 1 Free),Chips-Pretzels,45 gm,৳ 50,155
+3029,Kurkure Chili Chatka Chips,Chips-Pretzels,90 gm,৳ 50,145
+3030,Pringles Potato Chips Pizza Flavour,Chips-Pretzels,158 gm,৳ 250,95
+3031,Kurkure Tak Misti Jhal Chips,Chips-Pretzels,45 gm,৳ 25,126
+3032,Pringles Original Potato Crisps,Chips-Pretzels,37 gm,৳ 99,87
+3033,Pringles Jalapeno,Chips-Pretzels,158 gm,৳ 250,147
+3034,Pringles BBQ Potato Chips,Chips-Pretzels,158 gm,৳ 250,24
+3035,Kurkure Spanish Tomato Tango Flavor Chips,Chips-Pretzels,90 gm,৳ 50,181
+3036,Sun Chips Tomato Tango,Chips-Pretzels,38 gm,৳ 25,167
+3037,Pringles Sweet Chili Potato Chips,Chips-Pretzels,147 gm,৳ 225,51
+3038,Mister Potato Orignal Crisps,Chips-Pretzels,100 gm,৳ 160,165
+3039,Tostitos Hint Of Lime Tortilla Chips,Chips-Pretzels,283 gm,৳ 525,195
+3040,Kurkure Tak Misti Jhal Chips,Chips-Pretzels,90 gm,৳ 50,108
+3041,Mister Potato BBQ Crisps,Chips-Pretzels,100 gm,৳ 160,125
+3042,Tostitos Scoops Corn Chips,Chips-Pretzels,283 gm,৳ 525,155
+3043,Sun Chips 80 gm (Buy 2 Get 1),Chips-Pretzels,,৳ 100,195
+3044,Doritos Spicy Nacho Tortilla,Chips-Pretzels,31.8 gm,৳ 92,37
+3045,Mister Potato Hot & Spicy Crisps,Chips-Pretzels,100 gm,৳ 160,136
+3046,Ligo Potato Chips Cheese Flavour,Chips-Pretzels,160 gm,৳ 250,118
+3047,Ligo Potato Chips Original Flavour,Chips-Pretzels,160 gm,৳ 250,187
+3048,Tostitos Crispy Rounds Tortilla Chips,Chips-Pretzels,283 gm,৳ 525,161
+3049,Sun Chips Prawn Crackers,Chips-Pretzels,20 gm,৳ 15,191
+3050,Sun Chips Garlic & Chilli,Chips-Pretzels,22 gm,৳ 15,33
+4001,Peanut Raw (Kacha Cheena Badam),Popcorn & Nuts,100 gm,৳ 30,171
+4002,PRAN Badam Bhaja 30 gm,Popcorn & Nuts,4 pcs,৳ 32,63
+4003,ACT II Popcorn Butter Delite,Popcorn & Nuts,70 gm,৳ 35,57
+4004,Noi Salted Peanuts,Popcorn & Nuts,110 gm,৳ 150,85
+4005,Nut Candy Salted Peanuts,Popcorn & Nuts,150 gm,৳ 230,113
+4006,Fit Food Honey Roasted Almonds,Popcorn & Nuts,300 gm,৳ 400,39
+4007,Fit Food BBQ Almonds,Popcorn & Nuts,100 gm,৳ 230,135
+4008,Tong Garden Salted Peanuts Can,Popcorn & Nuts,150 gm,৳ 325,62
+4009,Noi Party Snack,Popcorn & Nuts,128 gm,৳ 145,139
+4010,Fit Food Roasted Cashews,Popcorn & Nuts,100 gm,৳ 260,133
+4011,Noi Cuttlefish Coated Green Peas,Popcorn & Nuts,128 gm,৳ 150,173
+4012,Fit Food Spiced Mixed Nuts,Popcorn & Nuts,100 gm,৳ 260,13
+4013,Nut Candy Salted Pistachios,Popcorn & Nuts,140 gm,৳ 400,72
+4014,Kazi Farms Kitchen Chicken Popcorn,Popcorn & Nuts,250 gm,৳ 250,76
+4015,Tong Garden Japanese Rice Cracker Mixed Coated Peanuts,Popcorn & Nuts,160 gm,৳ 275,103
+4016,Noi Salted Green Peas,Popcorn & Nuts,128 gm,৳ 140,183
+4017,Tong Garden Salted Pistachios,Popcorn & Nuts,130 gm,৳ 495,121
+4018,Tong Garden Seaweed & Wasabi Cashew Nuts,Popcorn & Nuts,150 gm,৳ 495,189
+4019,Tong Garden Salted Almonds,Popcorn & Nuts,140 gm,৳ 495,178
+4020,Crunchos Pistachio Nut Tin,Popcorn & Nuts,350 gm,"৳ 1,040",13
+4021,Noi Salted Cocktail Nuts,Popcorn & Nuts,128 gm,৳ 330,134
+4022,Nuttos Organic Mixed Nuts,Popcorn & Nuts,400 gm,৳ 799,195
+4023,Crunchos Assorted Mix Nuts Tin,Popcorn & Nuts,350 gm,"৳ 1,040",111
+4024,Crunchos Nut Cashew Tin,Popcorn & Nuts,350 gm,"৳ 1,040",75
+5001,Complan Chocolate,Energy Boosters,350 gm,৳ 385,135
+5002,Quality Brown Premium Egg,Energy Boosters,12 pcs,৳ 150,157
+5003,Purnava Vitamin E Egg,Energy Boosters,12 pcs,৳ 162,29
+5004,Purnava Omega 3 Enriched Egg,Energy Boosters,12 pcs,৳ 221,13
+5005,Pedia Sure Complete Classic Venilla,Energy Boosters,900 gm,"৳ 1,750",88
+5006,Horlicks Jar,Energy Boosters,250 gm,৳ 195,56
+5007,Horlicks Jar,Energy Boosters,1050 gm,৳ 695,180
+5008,Chocolate Horlicks Jar,Energy Boosters,550 gm,৳ 395,163
+5009,Pedia Sure Venilla Delight,Energy Boosters,400 gm,৳ 755,23
+5010,Ovaltine Malted Chocolate Drink Jar,Energy Boosters,400 gm,৳ 325,16
+5011,Horlicks Jar,Energy Boosters,550 gm,৳ 395,173
+5012,Mother's Horlicks Bib,Energy Boosters,350 gm,৳ 490,100
+5013,Junior Horlicks Jar(Free Tiffin Box),Energy Boosters,500 gm,৳ 410,130
+5014,Horlicks Lite Jar,Energy Boosters,330 gm,৳ 380,49
+5015,Cadbury Bourn Vita,Energy Boosters,500 gm,৳ 450,105
+5016,Horlicks Jar (Free Pencil Box),Energy Boosters,550 gm,৳ 395,21
+5017,Complan Chocolate Jar,Energy Boosters,200 gm,৳ 250,67
+5018,Nestle Nesquik Strawberry Powder,Energy Boosters,300 gm,৳ 305,180
+5019,Complan Chocolate Jar,Energy Boosters,500 gm,৳ 540,189
+5020,Horlicks Growth Plus Jar,Energy Boosters,400 gm,৳ 840,181
+5021,Ovaltine Malted Milk Drink Jar,Energy Boosters,400 gm,৳ 325,32
+5022,Complan Creamy Classic Plain Bib,Energy Boosters,350 gm,৳ 360,112
+5023,Nestle Nestum  Higher in Whole Grain Ceral Milk Drink,Energy Boosters,504 gm,৳ 850,25
+5024,Junior Horlicks Refill (Free Tiffin Box),Energy Boosters,450 gm,৳ 390,73
+5025,Cadbury Bourn Vita,Energy Boosters,500 gm,৳ 507,156
+5026,Nestle Nestum Multigrain Brown Rice Ceral Milk Drink,Energy Boosters,405 gm,৳ 815,119
+5027,Pedia Sure Complete Classic Venilla,Energy Boosters,400 gm,"৳ 1,025",102
+6001,Telapia Fish 3/4 pcs (Net Weight After Cutting ± 50 gm),Fish,800 gm,৳ 175,100
+6002,Pabda Fish,Fish,500 gm,৳ 260,85
+6003,Prawn Medium (Chingri),Fish,500 gm,৳ 310,9
+6004,Rui Fish (Net Weight ± 60 gm),Fish,1.5 kg,৳ 405,168
+6005,Prawn Big (Chingri),Fish,500 gm,৳ 355,115
+6006,Rui Fish (Net Weight After Cutting ± 50 gm),Fish,1.3 kg,৳ 425,8
+6007,Koi Fish (After Cutting Net Weight ± 50 gm),Fish,800 gm,৳ 225,109
+6008,Kaski Fish,Fish,500 gm,৳ 210,85
+6009,Prawn Small (Chingri),Fish,500 gm,৳ 255,123
+6010,Deshi Pangas (Net Weight ±50 gm),Fish,1.5 kg,৳ 225,51
+6011,Shing Fish (After Cutting),Fish,500 gm,৳ 310,114
+6012,Mola Fish,Fish,500 gm,৳ 210,24
+6013,Tengra Fish Deshi,Fish,500 gm,৳ 305,119
+6014,Catla (Katla) Fish After Cutting (Net Weight ±50 gm),Fish,1.3 kg,৳ 425,38
+6015,Catla (Katla) Fish (Net Weight ± 50 gm),Fish,1.5 kg,৳ 405,111
+6016,Baim Fish Medium,Fish,500 gm,৳ 410,178
+6017,Koral Fish (Net Weight ± 50 gm),Fish,1.5 kg,৳ 860,48
+6018,Prawn (Galda) 10-12 pcs,Fish,1 kg,"৳ 1,300",184
+7001,Chicken Boneless Breast (Net Weight ± 50 gm),Meat,1 kg,৳ 325,169
+7002,Cock Chicken Skin Off (Net Weight  ± 30 gm),Meat,500 gm,৳ 220,55
+7003,Whole Broiler Chicken Skin Off (Net Weight ± 50 gm),Meat,1 kg,৳ 200,105
+7004,Beef Bone in (Net Weight ± 50 gm),Meat,1 kg,৳ 560,76
+7005,Whole Broiler Chicken Skin On (Net Weight ± 50 gm),Meat,1 kg,৳ 185,156
+7006,Cock Chicken Skin Off (Net Weight  ± 30 gm),Meat,300 gm,৳ 175,151
+7007,Beef Boneless (Net Weight ± 50 gm),Meat,1 kg,৳ 660,164
+7008,Whole Broiler Chicken Skin Off (Net Weight ± 50 gm),Meat,800 gm,৳ 175,176
+7009,Whole Broiler Chicken Skin On (Net Weight ± 50 gm),Meat,800 gm,৳ 160,200
+7010,Cow Liver,Meat,500 gm,৳ 276,124
+7011,Whole Deshi Chicken Skin Off (Net Weight ± 30 gm),Meat,550 gm,৳ 432,125
+7012,Mutton Regular,Meat,1 kg,৳ 820,61
+8001,Aarong Dairy Low Fat Yogurt (Sour),Yogurt & Sweet,500 gm,৳ 80,22
+8002,Milk Vita Sour Curd,Yogurt & Sweet,500 ml,৳ 80,64
+8003,PRAN Sweet Yogurt,Yogurt & Sweet,100 gm,৳ 20,159
+8004,PRAN Sour Curd,Yogurt & Sweet,500 ml,৳ 80,61
+8005,Aarong Dairy Sweetened Yogurt,Yogurt & Sweet,500 ml,৳ 100,96
+8006,Aarong Dairy Gulab Jamun (20±2 pcs),Yogurt & Sweet,1 kg,৳ 320,16
+8007,Shokti Plus Sweet Yogurt Mango Combo Pack,Yogurt & Sweet,4 pcs,৳ 196,93
+8008,Aarong Dairy Rasgulla (20±2 pcs),Yogurt & Sweet,1 kg,৳ 320,66
+8009,Gowala Cup Doi,Yogurt & Sweet,6 pcs,৳ 230,147
+8010,Gowala Sweet Curd,Yogurt & Sweet,650 gm,৳ 310,158
+9001,Dan Cake Vanilla Muffin,Bakery Snacks,25 gm,৳ 15,147
+9002,Dan Cake Chocolate Muffin 12 packs,Bakery Snacks,300 gm,৳ 180,126
+9003,Wonder Muffin Cake 6 pcs,Bakery Snacks,100 gm,৳ 60,49
+9004,PRAN Garlic Toast,Bakery Snacks,250 gm,৳ 45,184
+9005,Dan Cake Vanilla Muffin 12 packs,Bakery Snacks,300 gm,৳ 180,24
+9006,Dan Cake Chocolate Pound Cake,Bakery Snacks,320 gm,৳ 100,9
+9007,Nababi Sweetened Bakhorkhani,Bakery Snacks,400 gm,৳ 140,136
+9008,Dan Cake Lemon Pound Cake,Bakery Snacks,320 gm,৳ 100,133
+9009,Nababi Premium Bakerkhani,Bakery Snacks,400 gm,৳ 125,126
+9010,Nababi Cheesy Bakorkhani,Bakery Snacks,400 gm,৳ 175,106
+9011,Nababi Coconut Bakorkhani,Bakery Snacks,400 gm,৳ 160,198
+1101,Regular Burger Bun 250 gm (4 pcs),Breads,,৳ 65,18
+1102,Well Food Brown Bread,Breads,500 gm,৳ 115,89
+1103,Well Food Sugar Free Bread,Breads,200 gm,৳ 40,28
+1104,Well Food Honey Bread,Breads,500 gm,৳ 75,146
+1105,Regular Hotdog Roll,Breads,200 gm,৳ 60,101
+1106,Tastie Breadcrumbs White,Breads,200 gm,৳ 90,55
+1107,Uncle Barn's Bread Crumbs (White),Breads,200 gm,৳ 175,149
+2101,Nazirshail Rice Premium,Rice,5 kg,৳ 300,50
+2102,Miniket Rice Premium,Rice,5 kg,৳ 285,67
+2103,Miniket Rice Standard,Rice,5 kg,৳ 266,40
+2104,Chinigura Rice (Polaw),Rice,1 kg,৳ 110,138
+2105,Aathash Rice,Rice,5 kg,৳ 200,170
+2106,PRAN Chinigura Rice,Rice,2 kg,৳ 255,119
+2107,Atop Rice,Rice,1 kg,৳ 45,109
+2108,Fresh Chinigura Rice,Rice,1 kg,৳ 125,121
+2109,Katarivog Rice,Rice,1 kg,৳ 110,71
+2110,PRAN Miniket Rice,Rice,5 kg,৳ 325,193
+2111,Khusboo Premium Chinigura Rice,Rice,1 kg,৳ 130,181
+2112,ACI Pure Miniket Rice,Rice,10 kg,৳ 700,185
+2113,Khusboo Premium Kalijira Rice,Rice,1 kg,৳ 130,20
+2114,Purnava Low G.I. Rice,Rice,5 kg,৳ 552,167
+2115,Teer Chinigura Rice,Rice,1 kg,৳ 130,113
+2116,BPM Dheki Chata Rice,Rice,1 kg,৳ 90,110
+2117,BPM Chinigura Rice (Khud),Rice,1 kg,৳ 70,119
+2118,Khusboo Premium Nazirshail Rice,Rice,5 kg,৳ 415,200
+2119,BPM Red Binne Rice,Rice,1 kg,৳ 116,73
+2120,Daawat Biryani Basmati Rice,Rice,1 kg,৳ 350,54
+2121,BPM Kaun Rice,Rice,500 gm,৳ 70,70
+2122,BPM Biroi Rice,Rice,1 kg,৳ 105,188
+2123,Shaad Chinigura Aromatic Rice,Rice,1 kg,৳ 120,124
+2124,BPM White Binni Rice,Rice,1 kg,৳ 100,9
+2125,Ispahani Agomoni Kalijira Rice,Rice,1 kg,৳ 120,147
+2126,ACI Aroma  Aromatic Chinigura Rice,Rice,1 kg,৳ 130,41
+2127,Ispahani Agomoni Banglamoti Rice,Rice,5 kg,৳ 375,13
+2128,Khusboo Premium Katarivog Rice,Rice,5 kg,৳ 580,113
+2129,BPM Amon Rice,Rice,1 kg,৳ 90,99
+2130,ACI Pure Nazirshail Rice,Rice,5 kg,৳ 450,162
+2131,Basmati Rice,Rice,1 kg,৳ 250,33
+2132,Kohinoor Extra Long Basmati Rice,Rice,1 kg,৳ 350,75
+2133,Purnava Low G.I. Rice,Rice,1 kg,৳ 120,170
+2134,Pran Basmati Rice,Rice,1 kg,৳ 300,162
+2135,Ispahani Agomoni Tulshimala Rice,Rice,1 kg,৳ 115,81
+2136,Teer Miniket Rice,Rice,5 kg,৳ 360,184
+2137,Ispahani Agomoni Badshabhog Rice,Rice,1 kg,৳ 125,178
+2138,Khusboo Premium Bashmati Rice,Rice,1 kg,৳ 350,141
+2139,Slim Rice,Rice,200 gm,৳ 410,135
+2140,ACI Nutrilife Low GI Rice,Rice,1 kg,৳ 130,173
+2141,Aaba Extra Long Premium Basmati Rice,Rice,1 kg,৳ 330,146
+2142,ACI Pure Miniket Rice,Rice,5 kg,৳ 360,13
+2143,Ispahani Agomoni Chinigura Rice,Rice,1 kg,৳ 130,8
+2144,ACI Aroma Pure Basmati Rice,Rice,1 kg,৳ 325,67
+2145,Ispahani Agomoni Kataribhog Rice,Rice,5 kg,৳ 550,156
+2146,Ispahani Agomoni Miniket Rice,Rice,5 kg,৳ 370,115
+2147,Neelam Rozana Long Grain Aromatic Rice,Rice,1 kg,৳ 220,101
+2201,Fresh Refined Sugar,Salt & Sugar,1 kg,৳ 72,151
+2202,ACI Pure Salt,Salt & Sugar,1 kg,৳ 35,14
+2203,Fresh Super Premium (Vacuum) Salt,Salt & Sugar,1 kg,৳ 35,15
+2204,Rock Salt (Bit Lobon),Salt & Sugar,100 gm,৳ 35,146
+2205,Smc Orsaline-N,Salt & Sugar,20 pcs,৳ 100,172
+2206,Sugarcandy (Tal Misri),Salt & Sugar,200 gm,৳ 40,187
+2207,Top Testing salt,Salt & Sugar,100 gm,৳ 35,167
+2208,Equal Sugar 100 Tablets,Salt & Sugar,,৳ 130,78
+2209,Khaas Food Jhola Gur,Salt & Sugar,500 gm,৳ 180,188
+2210,My Organic Root Khejur Gur (Patali),Salt & Sugar,500 gm,৳ 270,10
+2211,Fresh White Sugar,Salt & Sugar,250 gm,৳ 45,135
+2212,My Organic Root Khejur Gur Powder,Salt & Sugar,150 gm,৳ 130,94
+2213,Canderel Calorie Sweetener Jar,Salt & Sugar,40 gm,৳ 155,63
+2214,SIS White Icing Sugar,Salt & Sugar,500 gm,৳ 245,153
+2215,Astha Khejur Gur (Jhola),Salt & Sugar,500 gm,৳ 195,64
+2216,Canderel Sugar 100 Tablets,Salt & Sugar,,৳ 130,166
+2217,Sis White Sugar Cube,Salt & Sugar,454 gm,৳ 205,114
+2218,Suito Calorie & Fat Free Sweetener Tablets,Salt & Sugar,100 pcs,৳ 135,103
+2219,Sis White Sugar,Salt & Sugar,1 kg,৳ 235,94
+2220,Canderel Sugar,Salt & Sugar,75 gm,৳ 300,53
+2221,Premium Grade French Celtic Sea Salt 250 g,Salt & Sugar,,৳ 494,24
+2301,Teer Whole Wheat Atta,Diabetic Food,2 kg,৳ 82,121
+2302,Bisk Club Sugar Free Cracker Biscuit,Diabetic Food,180 gm,৳ 50,123
+2303,Saffola Active Oil (Blended Edible Vegetable Oil),Diabetic Food,5 ltr,৳ 940,120
+2304,Danish Nutri Rich Diabetic Biscuits,Diabetic Food,210 gm,৳ 75,137
+2305,Quaker Oats Australia,Diabetic Food,1 kg,৳ 575,180
+2306,Purnava Chinigo Premium Sweetener 30 Sachets,Diabetic Food,,৳ 120,200
+2307,Purnava Low G.I. Rice,Diabetic Food,5 kg,৳ 552,45
+2308,Finlays Pure Green Tea Box,Diabetic Food,125 gm,৳ 85,8
+2309,Lipton Green Tea Bag Pure & Light,Diabetic Food,25 pcs,৳ 120,145
+2310,Mentos Pure Fresh Chewing Sugarfree Gum (Green Tea Fresh Mint),Diabetic Food,29.7 gm,৳ 110,83
+2311,Zero Cal Box 150 Sachets,Diabetic Food,,৳ 320,73
+2312,Wrigley's Eclipse Sugar Free Peppermint 50 pcs,Diabetic Food,35 gm,৳ 185,157
+2313,Halda Valley Dragon Well Green Tea,Diabetic Food,55 gm,৳ 475,179
+2314,Zero Cal Box 75 Sachets,Diabetic Food,,৳ 185,89
+2315,Suger Free Sugar Lite Pouch,Diabetic Food,500 gm,৳ 152,86
+2316,Quaker Instant Oatmeal Jar,Diabetic Food,1 kg,৳ 650,80
+2317,Equal Stevia Sugar 200 Tablets,Diabetic Food,,৳ 375,118
+2318,Well Food Sugar Free Cookies,Diabetic Food,300 gm,৳ 220,193
+2319,Equal Gold Sticks with Free Container (50X.08 gm),Diabetic Food,40 gm,৳ 150,179
+2320,Twinings Green Tea & Lemon 25 bags,Diabetic Food,,৳ 450,73
+2321,IKO Sugar Free Oatmeal Crackers 9 Grains,Diabetic Food,220 gm,৳ 430,99
+2322,PRAN Sugar Free Orange Jelly,Diabetic Food,500 gm,৳ 190,7
+2323,Lowan Whole Grain Rolled Oats,Diabetic Food,1 kg,৳ 975,52
+2324,Ensure Diabetes Care Adult Nutrition Health Drink,Diabetic Food,400 gm,৳ 947,33
+2325,Equal Sugar 100 Tablets,Diabetic Food,,৳ 130,108
+2326,Suger Free Sugar Lite Jar,Diabetic Food,500 gm,৳ 198,149
+2327,Halda Valley Dragon Well Green Tea,Diabetic Food,30 gm,৳ 265,157
+2328,Vitalia Sugar Free Corn Flakes,Diabetic Food,300 gm,৳ 465,63
+2329,Zero Cal Box (50 Pcs Free) 150 Sachets,Diabetic Food,,৳ 320,15
+2330,IKO Premium Sugar Free Oatmeal Crackers Original,Diabetic Food,178 gm,৳ 345,155
+2331,Canderel Calorie Sweetener Jar,Diabetic Food,40 gm,৳ 155,127
+2332,Tiffany Sugar free Orange Flavored Cream Biscuits,Diabetic Food,162 gm,৳ 270,190
+2333,Canderel Sugar 100 Tablets,Diabetic Food,,৳ 130,145
+2334,ACI Nutrilife Low GI Rice,Diabetic Food,1 kg,৳ 130,88
+2335,Suito Calorie & Fat Free Sweetener Tablets,Diabetic Food,100 pcs,৳ 135,17
+2336,Canderel Sugar Jar,Diabetic Food,75 gm,৳ 280,77
+2337,Stute Fine Cut Diabetic Orange Extra Marmalade,Diabetic Food,430 gm,৳ 365,153
+2338,Suito Calorie & Fat Free Sweetener Box 50 Sachets,Diabetic Food,,৳ 175,147
+2339,Orion Dr. Xylitol Sugar Free Melon Mint Candy Green Tea,Diabetic Food,32 gm,৳ 175,188
+2340,Canderel Sugar,Diabetic Food,75 gm,৳ 300,73
+2341,Britannia Nutri Choice Sugar Free Crackers Biscuit,Diabetic Food,300 gm,৳ 130,118
+2342,Stevia Leaves Sweetener,Diabetic Food,100 gm,৳ 650,163
+4301,RFL Click 4 Socket Multiplug (2 Pin),Lights & Electrical,each,৳ 585,149
+4302,Miyako Electric Auto Kettle,Lights & Electrical,each,"৳ 1,050",131
+4303,Blaze Energy Saving Daylight Bulb (Pin) 15 w,Lights & Electrical,,৳ 265,184
+4304,Super Star LED Light White 15 W (Screw),Lights & Electrical,,৳ 350,81
+4305,Super Star LED Light White 18 W (Screw),Lights & Electrical,,৳ 400,167
+4306,BSM Half Spiral Energy Light (Screw) 30 Watt,Lights & Electrical,,৳ 331,88
+4307,Super Star LED Light White 18 W (Pin),Lights & Electrical,,৳ 400,25
+4308,Blaze Energy Saving Daylight (Pin) 26 w,Lights & Electrical,,৳ 310,46
+4309,BSM Half Spiral Energy Light (Pin) 30 Watt,Lights & Electrical,,৳ 331,184
+4310,many 3 Socket Power Converter Multi Plug (3 Pin),Lights & Electrical,each,৳ 450,158
+4311,BSM Cup Shape LED Bulb (Screw) 15 Watt,Lights & Electrical,,৳ 300,188
+4312,BSM Cup Shape LED Bulb (Pin) 15 Watt,Lights & Electrical,,৳ 300,119
+4313,Transcend 16 GB USB 3.0 Pen Drive,Lights & Electrical,each,৳ 650,161
+4314,BSM Cup Shape LED Bulb (Pin) 18 Watt,Lights & Electrical,,৳ 350,159
+4315,Blaze Energy Saving Daylight (Pin) 30 w,Lights & Electrical,,৳ 300,51
+4316,BSM Cup Shape LED Bulb (Screw) 18 Watt,Lights & Electrical,,৳ 350,96
+4317,BSM Lotus Energy Light (Screw) 35 Watt,Lights & Electrical,,৳ 397,57
+4318,BSM Half Spiral Energy Light (Pin) 40 Watt,Lights & Electrical,,৳ 419,157
+4319,Bright Star Rechargeable SMD Torch Light,Lights & Electrical,each,৳ 570,159
+4320,RFL Click 3 Socket Multiplug (2 Pin),Lights & Electrical,each,৳ 585,179
+4321,Supermoon LED Rechargeable Emergency Light,Lights & Electrical,each,৳ 600,102
+4322,Blaze Led Rechargeable Lamp (BLZ-5706),Lights & Electrical,each,৳ 750,188
+4323,BSM Lotus Energy Light (Screw) 45 Watt,Lights & Electrical,,৳ 569,24
+4324,RFL Vigo Fan Heater (2000 W),Lights & Electrical,each,"৳ 1,300",95
+4325,Blaze Energy Saving Daylight (Pin) 23 w,Lights & Electrical,,৳ 295,98
+4326,BSM Half Spiral Energy Light (Screw) 40 Watt,Lights & Electrical,,৳ 419,199
+4327,RFL Click Room Comforter Homey,Lights & Electrical,each,"৳ 1,300",196
+4328,Sunlite Super Econo Flash Light,Lights & Electrical,each,৳ 220,78
+4329,BSM Back Up LED Bulb (Screw) 18 Watt,Lights & Electrical,,৳ 499,6
+4330,BSM Back Up LED Bulb (Pin) 18 Watt,Lights & Electrical,,৳ 499,103
+4401,Sewing Thread Box Set,Tools & Hardware,each,৳ 140,163
+4402,Feather Paint Brush,Tools & Hardware,each,৳ 35,156
+4403,Roasting Clamp Stainless Steel 9" Kitchen Tool,Tools & Hardware,each,৳ 100,117
+4404,Nail Cutter,Tools & Hardware,each,৳ 115,58
+4405,Philips Tester 3.5X52 mm,Tools & Hardware,,৳ 25,29
+4406,SME Ball Peen Big Hammer 550 gm (China),Tools & Hardware,,৳ 190,115
+4407,HMBR (3mmX10ft) Measurement Tape (USA),Tools & Hardware,,৳ 140,171
+4408,Can & Bottle Opener,Tools & Hardware,each,৳ 280,50
+4409,Hibo Side Cutting Pliers 8"x 200 mm,Tools & Hardware,,৳ 120,129
+4410,Jackly Hardware Tools,Tools & Hardware,each,৳ 145,35
+4411,Steel Wire (22"x6") Wall 6 Hook Brown Hanger (China),Tools & Hardware,each,৳ 280,104
+4412,Mobaj Premium 7 Levers Lock (India),Tools & Hardware,,৳ 460,6
+4413,HMBR Top Security Pad Lock,Tools & Hardware,each,৳ 295,60
+4414,Jumbo Plane Cricket Tennis Ball,Tools & Hardware,3 pcs,৳ 90,173
+4415,Umbrella Black Auto Open Wind Proof,Tools & Hardware,each,৳ 415,36
+4416,Angel Bear Toothbrush Holder (Cream),Tools & Hardware,,৳ 210,172
+4417,Fujimoto Long Nose Pliers,Tools & Hardware,1 pc,৳ 175,50
+4418,Screw Driver 9" Hexagon Blade 2 in 1 (China),Tools & Hardware,,৳ 85,48
+4419,Skimming Spoon,Tools & Hardware,each,৳ 150,97
+4420,Camel Glue Gun 80 W GG-5 Machine,Tools & Hardware,each,৳ 320,52
+4421,Golden Wing Badminton (GW 907),Tools & Hardware,each,৳ 520,46
+4422,RFL Weighting Scale,Tools & Hardware,each,"৳ 1,000",198
+4423,Stainless Steel Rice Spoon,Tools & Hardware,each,৳ 150,197
+4424,AFO Fire Extinguishers Ball,Tools & Hardware,each,"৳ 1,580",141
+4425,Cutting Pliers China,Tools & Hardware,each,৳ 200,27
+4426,Golden Wings Badminton Cork 1 Box,Tools & Hardware,12 pcs,৳ 480,117
+5201,Dettol Antiseptic Liquid (Brown) Single Pack,First Aid,500 ml,৳ 155,110
+5202,Smc Orsaline-N,First Aid,20 pcs,৳ 100,185
+5203,Dettol Antiseptic Liquid (Brown) Single Pack,First Aid,100 ml,৳ 48,120
+5204,Cute Krack Cream,First Aid,45 gm,৳ 50,86
+5205,Hot Water Bottle with Cover,First Aid,each,৳ 165,174
+5206,ENO Lemon Flavor (5 gm*5),First Aid,5 pcs,৳ 65,49
+5207,Dettol Antiseptic Liquid (Brown) Single Pack,First Aid,5 ltr,"৳ 1,220",94
+5208,Glaxose D Pack,First Aid,200 gm,৳ 90,125
+5209,ENO Cola Flavor (5 Gm*5),First Aid,5 pcs,৳ 80,107
+5210,Moov Pain Relief Spray,First Aid,35 gm,৳ 235,172
+5211,Moov Pain Relief Cream,First Aid,30 gm,৳ 185,73
+5212,ENO Orange Flavor (5 gm*5),First Aid,5 pcs,৳ 80,38
+5213,Zandu Balm,First Aid,8 ml,৳ 100,86
+5214,Glaxose D Pack (BIC),First Aid,400 gm,৳ 155,114
+5215,SMC BOLT Glucose Powder,First Aid,200 gm,৳ 70,187
+5216,Neobun Gel Analgesic plaster (Cool),First Aid,each,৳ 300,10
+6201,Dish Washing Scrubbing Pad,Cleaning Accessories,each,৳ 25,16
+6202,Flower Broom (Ful Jharu),Cleaning Accessories,each,৳ 55,188
+6203,Stainless Steel Scourer,Cleaning Accessories,4 pcs,৳ 40,63
+6204,Trash Bag Black,Cleaning Accessories,12 pcs,৳ 150,31
+6205,Worki Na Smieci Trash Bag Black (60 L),Cleaning Accessories,20 pcs,৳ 120,39
+6206,ACI Wonder Stainless Steel Scrubber,Cleaning Accessories,each,৳ 25,124
+6207,Dish Washing Plastic Sponge Multi Color,Cleaning Accessories,5 pcs,৳ 75,142
+6208,Big Broom 31" (Shola),Cleaning Accessories,each,৳ 45,109
+6209,Floor Hand Brush 6" Local,Cleaning Accessories,each,৳ 70,109
+6210,Rok Steel Scourer,Cleaning Accessories,each,৳ 28,176
+6211,Winmed Latex Examination Gloves (Malaysia),Cleaning Accessories,100 pcs,৳ 380,50
+6212,Basin Curve Clean Brush,Cleaning Accessories,each,৳ 50,137
+6213,Npoly Design Mug 2 ltr (Blue),Cleaning Accessories,,৳ 38,41
+6214,Npoly Dust Pan 8x6 inch (Red),Cleaning Accessories,,৳ 28,120
+6215,Comode Handle Box Brush 23",Cleaning Accessories,each,৳ 160,197
+6216,Glass Wiper Spray(10x10 inch) China,Cleaning Accessories,each,৳ 140,179
+6217,Floor Cleaning Printed Wiper (45"x12") Mop (China),Cleaning Accessories,each,৳ 200,88
+6218,Cloth Pin 4 Colour (China),Cleaning Accessories,16 pcs,৳ 85,161
+6219,Comode Long Handle Clean Brush China,Cleaning Accessories,each,৳ 80,184
+6220,Toilet Brush 24" Local,Cleaning Accessories,each,৳ 100,190
+6221,Mop Cotton Refill (17") China,Cleaning Accessories,each,৳ 120,156
+6222,Npoly Design Bucket With Lead (Red),Cleaning Accessories,25 ltr,৳ 306,50
+6223,Magic Fiber Twist Floor Steel Mop (China),Cleaning Accessories,each,৳ 350,156
+6224,Npoly Laundry Basket 15x15 inch (Blue) ,Cleaning Accessories,,৳ 165,194
+6225,SS Long Handle Cotton Mop China,Cleaning Accessories,each,৳ 350,91
+6226,Plastic Dust Pan,Cleaning Accessories,each,৳ 35,139
+6227,Cleaning Long Plastic Mop Brush,Cleaning Accessories,each,৳ 200,190
+6228,Plastic Floor Trapper Mat Red 23"x15" (China),Cleaning Accessories,each,৳ 200,167
+6229,Plastic Red Broom (62") Handle Jhul Jharu (China),Cleaning Accessories,each,৳ 150,181
+6230,Soft Bed Brush Merun & Ash (14"x1.5") China,Cleaning Accessories,each,৳ 160,90
+6231,Cotton Floor Mat Red (Imported) (16X24 inch),Cleaning Accessories,each,৳ 280,123
+6232,RFL Cane Laundry Brown Basket Big,Cleaning Accessories,each,৳ 750,170
+6233,Sponge Mop Pva Refill 11 inch (Yellow),Cleaning Accessories,each,৳ 150,142
+6234,Comod Pump Local 17" (Red),Cleaning Accessories,each,৳ 120,42
+6235,Tyco Dishwasher Scourer,Cleaning Accessories,each,৳ 25,168
+6236,Long Handle Dry Mop China,Cleaning Accessories,each,৳ 400,66
+6237,Lacy's Chefwrap 45 cm X 300 mtr,Cleaning Accessories,each,৳ 950,124
+8101,Me O Cat Litter Clumping Apple,Pet Accessories,5 ltr,৳ 330,151
+8102,Coziecat Premium Cat Litter Lavender Flavour (Clumping),Pet Accessories,5 ltr,৳ 350,107
+8103,Sanicat Cat Litter Bianca Clumping,Pet Accessories,5 ltr,৳ 500,114
+8104,Coziecat Premium Cat Litter Lemon Flavour (Clumping),Pet Accessories,10 ltr,৳ 675,185
+8105,Sanicat 7 Days Aloe Vera Cat litter,Pet Accessories,4 ltr,৳ 350,8
+8106,Coziecat Premium Cat Litter Apple Flavour (Clumping),Pet Accessories,10 ltr,৳ 672,124
+8107,Coziecat Premium Cat Litter Coffe Flavour (Clumping),Pet Accessories,10 ltr,৳ 675,53
+8108,Coziecat Premium Cat Litter unscented Flavour (Clumping),Pet Accessories,10 ltr,৳ 675,148
+8109,Coziecat Premium Cat Litter Lavender Flavour (Clumping),Pet Accessories,10 ltr,৳ 675,96
+8110,Coziecat Premium Cat Litter Coffe Flavour (Clumping),Pet Accessories,5 ltr,৳ 350,137
+8111,Cature Scooper past,Pet Accessories,each,৳ 299,135
+8112,Cature Cat Litter Smart Pellet,Pet Accessories,2.4 kg,৳ 450,73
+8113,Cature Scooper Pink,Pet Accessories,each,৳ 299,71
+8114,Versele Laga Anti Itch Shampoo,Pet Accessories,250 ml,৳ 520,155
+8115,Coziecat Premium Cat Litter unscented Flavour (Clumping),Pet Accessories,5 ltr,৳ 350,20
+8116,Hobbyy Short Hair Cat Shampoo,Pet Accessories,300 ml,৳ 420,188
+8117,Versele Laga White Hair Shampoo,Pet Accessories,250 ml,৳ 520,84
+8118,Cature Cat Litter Sensitive (Scooper Free),Pet Accessories,2.4 kg,৳ 599,112
+8119,Cature Cat Litter Freshener (Floral),Pet Accessories,450 ml,৳ 500,24
+8120,Versele Laga Cat Dry Shampoo,Pet Accessories,150 ml,৳ 585,68
+8121,Cature Cat Litter Tiny Pellet (Scooper Free),Pet Accessories,2.2 kg,৳ 550,90
+8122,Purina Dentalife Daily Oral Care 12 Stciks,Pet Accessories,426 gm,৳ 800,179
+8123,Pet8 Cotton Bud For Dog & Cat L,Pet Accessories,each,৳ 460,10
+8124,Cature Cat Litter Freshener (Ocean),Pet Accessories,450 ml,৳ 500,157
+8125,Cature Cat Litter odor control Pellet,Pet Accessories,2.4 kg,৳ 500,28
+8126,Versele Laga Universal Shampoo,Pet Accessories,250 ml,৳ 520,135
+8127,Versele Laga Perfume Her,Pet Accessories,150 ml,৳ 910,50
+8128,Cature Cat Litter Smart Pellet,Pet Accessories,7.6 kg,"৳ 1,450",188
+8129,Cature Cat Litter Smart Pellet (Freshener Free),Pet Accessories,7.6 kg,"৳ 1,650",183
+8130,Purina Dentalife Daily Oral Care 5 Stciks,Pet Accessories,115 gm,৳ 420,95
+8131,Cature Cat Litter Tiny Pellet,Pet Accessories,2.4 kg,৳ 450,43
+8132,Cature Cat Litter Freshener (Grassy),Pet Accessories,450 ml,৳ 500,173
+8133,Cature Cat Litter Sensitive,Pet Accessories,2.4 kg,৳ 500,86
+8134,Versele Laga Puppy Shampoo,Pet Accessories,250 ml,৳ 520,141
+8135,Versele Laga Oropharme Oral Spary,Pet Accessories,150 ml,৳ 585,133
+8136,Versele Laga Perfume Him,Pet Accessories,150 ml,৳ 910,195
+8137,Pet8 Magic Bamboo Charcoal 45 X 60 cm,Pet Accessories,50 pcs,"৳ 3,350",126
+8138,Versele Laga Oropharme Cotton Stick,Pet Accessories,56 pcs,৳ 520,150
+8139,Versele Laga 2 In 1 Shampoo,Pet Accessories,250 ml,৳ 545,171
+8140,Drools Absolute Salmon Oil,Pet Accessories,150 ml,৳ 550,26
+8141,Versele Laga Oropharme Opti Breath,Pet Accessories,250 ml,৳ 650,93
+8142,Purina Dentalife Daily Oral Care 15 Stciks,Pet Accessories,345 gm,৳ 800,198
+8143,Bob Martin Felight Antibacterial 4.2 lbs,Pet Accessories,,৳ 850,98
+8144,Versele Laga No Pick (For Bird),Pet Accessories,100 ml,"৳ 1,365",178
+8145,Versele Laga Cat Attract,Pet Accessories,200 ml,"৳ 1,560",42
+9106,Farlin Baby Feeding Bottle & Nipple Cleanser Refill (BF-200-A),Baby Accessories,700 ml,৳ 501,101
+9107,Smartcare Bottle & Nipple Brush Set,Baby Accessories,each,৳ 220,71
+9108,Smartcare Silicon Nipple (6+ months) L,Baby Accessories,each,৳ 45,186
+9109,Farlin Baby Toilet Seat Blue (BF-904),Baby Accessories,each,৳ 386,153
+9110,Birthday Celebration Balloon,Baby Accessories,20 pcs,৳ 90,7
+9111,Pur Baby Long Handle Soft Tip Spoon (6 Months+) (R. 5404),Baby Accessories,each,৳ 160,75
+9112,Farlin Baby Bath Ball Sponge Pink (BF-309A),Baby Accessories,each,৳ 161,162
+9113,Angel Nylon & Spong Feeding Bottle Brush Green (BR-1F3),Baby Accessories,each,৳ 229,46
+9114,Farlin Baby Feeding Bottle & Nipple Cleanser (BF-200-5),Baby Accessories,500 ml,৳ 486,35
+9115,Pur Baby Plastic Bib (Paste) (R.6904),Baby Accessories,each,৳ 240,75
+9116,Farlin Baby Milk Powder Container Mixed Colour (BF-183) 4 layer,Baby Accessories,,৳ 400,32
+9117,Lion Brush & Comb,Baby Accessories,each,৳ 150,160
+9118,Farlin Baby Plastic Steam Cotton Buds Pink (BF-113-2),Baby Accessories,200 pcs,৳ 329,34
+9119,Smartcare Baby pacifier Medicine Feeder,Baby Accessories,10 ml,৳ 215,143
+9120,Angel Nylon Feeding Bottle Brush Green (BR-1F2),Baby Accessories,each,৳ 215,82
+9121,Angel Bear Toothbrush Holder (Cream),Baby Accessories,,৳ 210,154
+9122,Angel Baby Powder Puff With Sound (Sky Blue) (BAA-02),Baby Accessories,each,৳ 295,183
+9123,Smartcare Silicon Nipple (3+ Months ) M,Baby Accessories,each,৳ 45,34
+9124,Farlin Breast Pump Manual Pink (BF-638P),Baby Accessories,each,৳ 358,127
+9125,Farlin Breast Pump Luxurious Manual Pink (BF-640),Baby Accessories,each,"৳ 1,250",160
+9126,Farlin Baby Safety Pins Mixed Colour (BF-121-6),Baby Accessories,6 pcs,৳ 148,86
+9127,Smartcare Silicon Baby Teether (6+ months),Baby Accessories,1 pc,৳ 150,155
+9128,Lion Bottle & Nipple Brush,Baby Accessories,each,৳ 170,112
+9129,Pur Baby Manicure Set (Blue) (R.6508),Baby Accessories,each,৳ 240,56
+9130,Pur Baby Brush & Comb 1 Set (R.6905),Baby Accessories,,৳ 240,67
+9131,Angel Breast Pump Normal (Pink) (BAA-22),Baby Accessories,each,৳ 270,47
+9132,Lion Brest Pump Set,Baby Accessories,each,৳ 615,149
+9133,Kodomo Baby Gift Set Medium 1 Box,Baby Accessories,,৳ 750,197
+9134,Farlin Baby Comfortable cotsheet white (BF-431) (24"X36"),Baby Accessories,each,৳ 400,91
+9135,Angel Baby Water Filled Teether sky Blue 6M+ (ST-4),Baby Accessories,each,৳ 186,170
+9136,Lion Manicure Set,Baby Accessories,each,৳ 195,13
+9137,Farlin Baby Floss Toothpic Pink & White (BB-50006),Baby Accessories,50 pcs,৳ 200,81
+9138,Lion Milk Powder Container,Baby Accessories,each,৳ 240,142
+9139,Angel Baby Water Filled Teether Pink 6M+ (ST-6),Baby Accessories,each,৳ 186,21
+9140,Farlin Baby Pacifier Clip Set Red (TOP-112-2),Baby Accessories,each,৳ 329,27
+9141,Angel Baby Feeding Bottle & Nipple Cleanser,Baby Accessories,500 ml,৳ 415,48
+9142,Farlin Baby Silicon Gum Shooter Pink (BF-14103),Baby Accessories,each,৳ 161,149
